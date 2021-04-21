@@ -3,6 +3,7 @@
   "displayName": "blue-forest",
   "description": "",
   "version": "0.0.1",
+  "publisher": "Amirabbas",
   "engines": {
     "vscode": "^1.55.0"
   },
