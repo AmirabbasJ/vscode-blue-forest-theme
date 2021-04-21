@@ -1,0 +1,21 @@
+{
+  "name": "blue-forest",
+  "displayName": "blue-forest",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.55.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "blue-forest",
+        "uiTheme": "vs-dark",
+        "path": "./themes/blue-forest-color-theme.json"
+      }
+    ]
+  }
+}
