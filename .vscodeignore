@@ -1,5 +1,5 @@
 .vscode/**
 .vscode-test/**
-themes/prev.jsonc
+prev.jsonc/**
 .gitignore
 vsc-extension-quickstart.md
