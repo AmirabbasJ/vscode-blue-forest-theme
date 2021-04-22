@@ -2,7 +2,7 @@
   "name": "blue-forest",
   "displayName": "Blue Forest",
   "description": "a theme for vscode",
-  "icon": "https://ibb.co/ZcQy53R",
+  "icon": "icon/icon.png",
   "version": "0.0.1",
   "publisher": "Amirabbas",
   "engines": {
