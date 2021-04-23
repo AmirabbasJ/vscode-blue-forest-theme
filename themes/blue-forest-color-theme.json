@@ -1,4 +1,5 @@
 {
+  "name": "blue-forest",
   "$schema": "vscode://schemas/color-theme",
   "type": "dark",
   "colors": {
