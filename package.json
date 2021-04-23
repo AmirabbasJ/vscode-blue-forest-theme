@@ -3,7 +3,7 @@
   "displayName": "Blue Forest",
   "description": "a theme for vscode",
   "icon": "icon/icon.png",
-  "version": "1.2.4",
+  "version": "1.3.4",
   "publisher": "Amirabbas",
   "engines": {
     "vscode": "^1.52.0"
@@ -21,6 +21,11 @@
         "label": "blue-forest",
         "uiTheme": "vs-dark",
         "path": "./themes/blue-forest-color-theme.json"
+      },
+      {
+        "label": "blue-red-forest",
+        "uiTheme": "vs-dark",
+        "path": "./themes/blue&red-forest-color-theme.json"
       }
     ]
   }
