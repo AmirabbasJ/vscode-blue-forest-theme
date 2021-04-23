@@ -23,9 +23,9 @@
         "path": "./themes/blue-forest-color-theme.json"
       },
       {
-        "label": "blue-red-forest",
+        "label": "blue-fancy-forest",
         "uiTheme": "vs-dark",
-        "path": "./themes/blue&red-forest-color-theme.json"
+        "path": "./themes/blue-fancy-forest-color-theme.json"
       }
     ]
   }
