@@ -79,7 +79,7 @@
     "peekViewTitle.background": "#30394d",
     "peekViewTitleDescription.foreground": "#eeffff60",
     "pickerGroup.foreground": "#80cbc4",
-    "progressBar.background": "#30394d",
+    "progressBar.background": "#80cbc4",
     "scrollbar.shadow": "#252b3900",
     "scrollbarSlider.activeBackground": "#4e65c92f",
     "scrollbarSlider.background": "#00000050",
@@ -594,7 +594,7 @@
         "source.vue support.class.component"
       ],
       "settings": {
-        "foreground": "#FF6D7E"
+        "foreground": "#98f7fa"
       }
     },
     {
