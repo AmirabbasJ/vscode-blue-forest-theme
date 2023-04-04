@@ -6,15 +6,31 @@ you can install this theme by writing this in your command palette (`Ctrl+P`)
 
 # Screenshots
 
-## blue forest
 
-![html example](screenshots/blue-html-screenshot.png)
+## Main Page:
+![main](screenshots/main.png)
 
-![css screenshot](screenshots/blue-css-screenshot.png)
+## Typescript:
+![ts](screenshots/tsx.png)
 
-![js example](screenshots/blue-javascript-screenshot.png)
+## TSX:
+![tsx](screenshots/tsx.png)
 
-![ts example](screenshots/blue-typescript-screenshot.png)
+## CSS:
+![css](screenshots/css.png)
+
+## HTML:
+![html](screenshots/html.png)
+
+## Haskell:
+![haskell](screenshots/haskell.png)
+
+## Python:
+![python](screenshots/python.png)
+
+## C++:
+![cpp](screenshots/cpp.png)
+
 
 # In Progress
 

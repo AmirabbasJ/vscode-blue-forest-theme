@@ -3,7 +3,7 @@
   "displayName": "Blue Forest",
   "description": "a theme for vscode",
   "icon": "icon/icon.png",
-  "version": "1.4.6",
+  "version": "1.5.6",
   "publisher": "Amirabbas",
   "engines": {
     "vscode": "^1.52.0"
