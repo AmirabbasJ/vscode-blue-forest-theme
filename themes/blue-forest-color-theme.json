@@ -114,13 +114,13 @@
     "titleBar.inactiveForeground": "#4d9caac4",
     "widget.shadow": "#00000030",
     "editorBracketHighlight.unexpectedBracket.foreground": "#fe5959",
-    "editorBracketHighlight.foreground1": "#a0c2d1",
-    "editorBracketHighlight.foreground2": "#5ea1adc4",
-    "editorBracketHighlight.foreground3": "#80D0FF",
-    "editorBracketHighlight.foreground4": "#00000000",
-    "editorBracketHighlight.foreground5": "#00000000",
-    "editorBracketHighlight.foreground6": "#ff000000",
-    "editorOverviewRuler.errorForeground": "#312323"
+    "editorBracketHighlight.foreground1": "#7081BE",
+    "editorBracketHighlight.foreground2": "#7081BE",
+    "editorBracketHighlight.foreground3": "#7081BE"
+    // "editorBracketHighlight.foreground4": "#00000000",
+    // "editorBracketHighlight.foreground5": "#00000000",
+    // "editorBracketHighlight.foreground6": "#ff000000",
+    // "editorOverviewRuler.errorForeground": "#312323",
     //"activityBar.activeBorder": "#eeffff",
     //"activityBar.dropBorder": "#eeffff",
     //"activityBar.inactiveForeground": "#eeffff66",
@@ -602,7 +602,6 @@
         "foreground": "#98f7fa"
       }
     },
-    { "scope": ["meta.brace"] },
     {
       "scope": [
         "punctuation.template-string.element.begin",
