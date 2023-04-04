@@ -50,7 +50,7 @@
     "editorWhitespace.foreground": "#eeffff10",
     "editorWidget.background": "#272e3f",
     "extensionButton.prominentBackground": "#9ad9db",
-    "extensionButton.prominentForeground": "#000000",
+    "extensionButton.prominentForeground": "#ffffff",
     "extensionButton.prominentHoverBackground": "#5f9092d3",
     "focusBorder": "#ffffff00",
     "input.background": "#ffffff05",
@@ -112,7 +112,15 @@
     "titleBar.activeForeground": "#9ad9db",
     "titleBar.inactiveBackground": "#252b39",
     "titleBar.inactiveForeground": "#4d9caac4",
-    "widget.shadow": "#00000030"
+    "widget.shadow": "#00000030",
+    "editorBracketHighlight.unexpectedBracket.foreground": "#fe5959",
+    "editorBracketHighlight.foreground1": "#a0c2d1",
+    "editorBracketHighlight.foreground2": "#5ea1adc4",
+    "editorBracketHighlight.foreground3": "#80D0FF",
+    "editorBracketHighlight.foreground4": "#00000000",
+    "editorBracketHighlight.foreground5": "#00000000",
+    "editorBracketHighlight.foreground6": "#ff000000",
+    "editorOverviewRuler.errorForeground": "#312323"
     //"activityBar.activeBorder": "#eeffff",
     //"activityBar.dropBorder": "#eeffff",
     //"activityBar.inactiveForeground": "#eeffff66",
@@ -136,8 +144,7 @@
     //"charts.yellow": "#c3e88d70",
     //"checkbox.background": "#252b39",
     //"checkbox.border": "#ffffff10",
-    //"checkbox.foreground": "#f0f0f0",
-    //"debugConsole.errorForeground": "#f48771",
+    //"checkbox.foreground": "#f0f0f0",,
     //"debugConsole.infoForeground": "#75beff",
     //"debugConsole.sourceForeground": "#cccccc",
     //"debugConsole.warningForeground": "#c3e88d70",
@@ -215,7 +222,6 @@
     //"editorOverviewRuler.commonContentForeground": "#60606066",
     //"editorOverviewRuler.currentContentForeground": "#40c8ae80",
     //"editorOverviewRuler.deletedForeground": "#94151b99",
-    //"editorOverviewRuler.errorForeground": "#ff1212b3",
     //"editorOverviewRuler.findMatchForeground": "#d186167e",
     //"editorOverviewRuler.incomingContentForeground": "#40a6ff80",
     //"editorOverviewRuler.infoForeground": "#75beff",
@@ -233,7 +239,6 @@
     //"errorForeground": "#f48771",
     //"extensionBadge.remoteBackground": "#80cbc4",
     //"extensionBadge.remoteForeground": "#000000",
-    //"extensionButton.prominentForeground": "#ffffff",
     // "foreground" : "#cccccc",
     //"gitDecoration.addedResourceForeground": "#81b88b",
     //"gitDecoration.conflictingResourceForeground": "#6c6cc4",
@@ -597,16 +602,17 @@
         "foreground": "#98f7fa"
       }
     },
+    { "scope": ["meta.brace"] },
     {
       "scope": [
         "punctuation.template-string.element.begin",
         "punctuation.template-string.element.end",
         "punctuation.definition.string.template.begin",
         "punctuation.definition.string.template.end",
-        "string.quoted.template punctuation.definition.string.begin",
-        "string.quoted.template punctuation.definition.string.end",
+        "string.quoted.template",
+        "string.quoted.template",
         "punctuation.definition.template-expression.begin",
-        "punctuation.definition.template-expression.end"
+        "punctuation.definition.template-expression.end."
       ],
       "settings": {
         "foreground": "#FF6D7E"
@@ -617,6 +623,13 @@
       "scope": "variable.language",
       "settings": {
         "foreground": "#98f7fa",
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "scope": "invalid",
+      "settings": {
+        "foreground": "#fff",
         "fontStyle": "bold"
       }
     },
