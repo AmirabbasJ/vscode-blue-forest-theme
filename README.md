@@ -11,7 +11,7 @@ you can install this theme by writing this in your command palette (`Ctrl+P`)
 ![main](screenshots/main.png)
 
 ## Typescript:
-![ts](screenshots/tsx.png)
+![ts](screenshots/ts.png)
 
 ## TSX:
 ![tsx](screenshots/tsx.png)
